@@ -1,0 +1,64 @@
+@font-face{
+    font-family:'Minecraftia';
+    src: url('Minecraftia.ttf');
+}
+body{
+    color:#EAEEEE;
+    background: #333333;
+    font-family: "Minecraftia","微软雅黑";
+}
+.panel{
+    font-size:12px;
+    background: #676767;
+    border:solid 1px #FAFAD2;
+    padding:5px 5px 5px 5px;
+    margin:3px -3px 3px -3px;
+}
+hr{
+    height:2px;
+    border:none;
+    border-top:1px  solid #FFF;
+}
+a{
+    color:#DDDDDD;
+    font-size: 12px;
+}
+blockquote{
+    padding:5px 15px 5px 15px;
+    border-left: 3px solid #ccc;
+    margin:10px 10px 10px 10px;
+    background: #3F3F3F;
+}
+img{
+    padding:2px 2px 2px 2px;
+}
+.big{
+    font-size: 20px;
+}
+.text{
+    border:solid 1px #FAFAD2;
+    background: #383838;
+    color:#FFF;
+    padding:2px 2px 2px 2px;
+}
+.button{
+    background: #161616;
+    border:solid 1px #FAFAD2;
+    color:#FFF;
+    padding-top:2px;
+    padding-bottom: 2px;
+}
+
+.a{
+    min-height:100px;
+    width:230px;
+    float: left;
+}
+.b{
+    min-height:100px;
+    width:150px;
+    float:left;
+}
+.header{
+    background: #000;
+}
